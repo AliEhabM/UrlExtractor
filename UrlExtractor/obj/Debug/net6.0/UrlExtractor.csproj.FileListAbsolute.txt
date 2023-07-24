@@ -1,0 +1,17 @@
+C:\Users\Dell-Note\Documents\2nd Year\easy\1\a\UrlExtractor\bin\Debug\net6.0\UrlExtractor.exe
+C:\Users\Dell-Note\Documents\2nd Year\easy\1\a\UrlExtractor\bin\Debug\net6.0\UrlExtractor.deps.json
+C:\Users\Dell-Note\Documents\2nd Year\easy\1\a\UrlExtractor\bin\Debug\net6.0\UrlExtractor.runtimeconfig.json
+C:\Users\Dell-Note\Documents\2nd Year\easy\1\a\UrlExtractor\bin\Debug\net6.0\UrlExtractor.dll
+C:\Users\Dell-Note\Documents\2nd Year\easy\1\a\UrlExtractor\bin\Debug\net6.0\UrlExtractor.pdb
+C:\Users\Dell-Note\Documents\2nd Year\easy\1\a\UrlExtractor\obj\Debug\net6.0\UrlExtractor.csproj.AssemblyReference.cache
+C:\Users\Dell-Note\Documents\2nd Year\easy\1\a\UrlExtractor\obj\Debug\net6.0\UrlExtractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell-Note\Documents\2nd Year\easy\1\a\UrlExtractor\obj\Debug\net6.0\UrlExtractor.AssemblyInfoInputs.cache
+C:\Users\Dell-Note\Documents\2nd Year\easy\1\a\UrlExtractor\obj\Debug\net6.0\UrlExtractor.AssemblyInfo.cs
+C:\Users\Dell-Note\Documents\2nd Year\easy\1\a\UrlExtractor\obj\Debug\net6.0\UrlExtractor.csproj.CoreCompileInputs.cache
+C:\Users\Dell-Note\Documents\2nd Year\easy\1\a\UrlExtractor\obj\Debug\net6.0\UrlExtractor.dll
+C:\Users\Dell-Note\Documents\2nd Year\easy\1\a\UrlExtractor\obj\Debug\net6.0\refint\UrlExtractor.dll
+C:\Users\Dell-Note\Documents\2nd Year\easy\1\a\UrlExtractor\obj\Debug\net6.0\UrlExtractor.pdb
+C:\Users\Dell-Note\Documents\2nd Year\easy\1\a\UrlExtractor\obj\Debug\net6.0\UrlExtractor.genruntimeconfig.cache
+C:\Users\Dell-Note\Documents\2nd Year\easy\1\a\UrlExtractor\obj\Debug\net6.0\ref\UrlExtractor.dll
+C:\Users\Dell-Note\Documents\2nd Year\easy\1\a\UrlExtractor\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\Dell-Note\Documents\2nd Year\easy\1\a\UrlExtractor\obj\Debug\net6.0\UrlExtractor.csproj.CopyComplete
