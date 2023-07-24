@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q7WRKy9xxdy6Lsu/KuebGiH+uQYwHf5kLuQU3p/Hpvka/5iIlauXbanI87QN8bix2oWX9SeHkMrTeh+pr+5k4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell-Note\\Documents\\2nd Year\\easy\\1\\a\\UrlExtractor\\UrlExtractor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell-Note\\.nuget\\packages\\htmlagilitypack\\1.11.50\\htmlagilitypack.1.11.50.nupkg.sha512"
+  ],
+  "logs": []
+}
