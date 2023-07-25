@@ -66,7 +66,7 @@ void solve(string homepage,int level)
     }
     links.Clear();                                          //Deletes the queue to save space
 
-    StreamWriter writer = new StreamWriter("../../../output/links.txt");       //Writer to write the output in a text file
+    StreamWriter writer = new StreamWriter("../output/links.txt");       //Writer to write the output in a text file
     foreach (string url in final)
         writer.WriteLine(url);
     Console.WriteLine("The text file has been successfully created! Please check the output directory within the solution's folder.");
