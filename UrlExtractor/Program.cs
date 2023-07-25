@@ -7,8 +7,13 @@ using System.IO;
 
 HashSet<string> final = new HashSet<string>();                  //The HashSet that will be printed when the program is done
 
-List<string> getUrls(string url)                                //Gets all subpages in a page and returns them
-{                                                               //in a list of strings to be used in other functions
+
+///<summary>
+///Gets all links and subpages from the string url and returns them in the form of a list of strings
+///<param name="url">the url of the page</param>
+///</summary>
+List<string> getUrls(string url)                                
+{                                                               
     List<string> res = new List<string>();
     try
     {
@@ -30,6 +35,11 @@ List<string> getUrls(string url)                                //Gets all subpa
         return res;
 }
 
+///<summary>
+///Adds all subpages within a page to the queue　if they are not already in the queue
+///<param name="q">queue that the pages will be extracted to</param>
+///<param name="url">the url of the page</param>
+///</summary>
 void LinkQueue(Queue<string> q, string url)                     //Adds all subpages within a page to the queue
 {                                                               //if they are not already in the queue
 
@@ -43,6 +53,11 @@ void LinkQueue(Queue<string> q, string url)                     //Adds all subpa
             
 }
 
+///<summary>
+///Prints all links in a webpage, as well as subpages up to a certain level
+///<param name="homepage">the starting webpage</param>
+///<param name="level">how deep the function will go</param>
+///</summary>
 void solve(string homepage,int level)
 {
 
